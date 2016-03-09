@@ -4,23 +4,32 @@ Evaluación de las Proteínas del Ciclo Celular en el Cáncer de Pene
 
 
 1. Equipo de investigadores
+
 1.1 Investigador principal
+
 El Investigador Principal (IP) del proyecto es el Prof. Dr. Alcides Chaux, Director de la Dirección de Investigación y Divulgación Científica (DIDCI) de la Universidad del Norte. El IP estará a cargo del diseño y supervisión del proyecto, del análisis de datos, y de la redacción de informes de investigación y documentos relacionados.
 
 1.2 Asistente de investigación
+
 El Asistente de Investigación (AI) estará a cargo de la recolección y análisis de datos y redacción de informes de investigación y documentos relacionados. El AI tendrá una carga horaria de 15 (quince) horas semanales.
 
 
 2. Objetivos del proyecto
 
 2.1 Objetivos principales
+
 Los objetivos principales de este proyecto pueden agruparse en 2 categorías:
+
      Incrementar el conocimiento acerca de la biología molecular del cáncer de pene, con énfasis en la evaluación del ciclo celular.
+
      Ofrecer un programa de entrenamiento efectivo en investigación científica, orientado a la adquisición de habilidades concretas para el diseño, gestión y ejecución de proyectos de investigación.
 
 2.2 Objetivos principales específicos
+
 Los objetivos específicos de este proyecto pueden agruparse en 2 categorías:
+
     Evaluar visual y digitalmente la expresión inmunohistoquímica de proteínas relacionadas al ciclo celular en carcinomas escamosos del pene, determinando su asociación con características histopatológicas y virales.
+
     Entrenar efectivamente al AI en el diseño de proyectos de investigación, recolección de datos, morfología y biología molecular del cáncer de pene, análisis estadístico de datos, programación en R, utilización de RStudio, herramientas de ciencia de datos, interpretación de resultados, y redacción y publicación de informes de investigación.
 
 
@@ -60,16 +69,27 @@ El Proyecto estará dividido en 5 fases: diagnóstico de las lesiones tumorales,
 5.1 Diagnóstico de las lesiones tumorales
 
 5.1.1 Descripción
+
 Primeramente se procederá a la clasificación de los 4 TMA disponibles conteniendo muestras tisulares de 112 casos de cáncer de pene. Se identificarán las láminas histológicas completas correspondientes a estos casos y se procederá a la clasificación histopatológica de las lesiones tumorales, usando criterios previamente establecidos (Chaux2010b,Chaux2012). El AI trabajará bajo la supervisión del IP para la correcta clasificación de las lesiones tumorales y la adecuada identificación de las características histopatológicas relevantes. Esta evaluación se realizará sobre muestras tisulares teñidas con hematoxilina & eosina.
+
 5.1.2 Indicador de cumplimiento
+
 Caracterización morfológica de los tumores incluidos en los 4 TMA, incluyendo subtipo histológicos y grado histológico
+
 5.1.3 Meta mínima
+
 Identificación de los campos tumorales en los 4 TMA
+
 5.1.4 Medios de verificación
+
 Láminas histológicas, microfotografías de los campos TMA (H\&E), base de datos (parcial) y libro de código en repositorio
+
 5.1.5 Riesgos
+
 Tejido insuficiente para diagnóstico anatomopatológico apropiado
+
 5.1.6 Cronograma
+
 Julio 2015 -- Agosto 2015
 
 
