@@ -5,7 +5,7 @@
 
 #1.Equipo de investigadores
 
-##1.1 Investigador principal
+###1.1 Investigador principal
 
 El Investigador Principal (IP) del proyecto es el Prof. Dr. Alcides Chaux, Director de la Dirección de Investigación y Divulgación Científica (DIDCI) de la Universidad del Norte. El IP estará a cargo del diseño y supervisión del proyecto, del análisis de datos, y de la redacción de informes de investigación y documentos relacionados.
 
@@ -16,7 +16,7 @@ El Asistente de Investigación (AI) estará a cargo de la recolección y anális
 
 #2.Objetivos del proyecto
 
-#2.1 Objetivos principales
+###2.1 Objetivos principales
 
 Los objetivos principales de este proyecto pueden agruparse en 2 categorías:
 
@@ -24,7 +24,7 @@ Incrementar el conocimiento acerca de la biología molecular del cáncer de pene
 
 Ofrecer un programa de entrenamiento efectivo en investigación científica, orientado a la adquisición de habilidades concretas para el diseño, gestión y ejecución de proyectos de investigación.
 
-#2.2 Objetivos principales específicos
+###2.2 Objetivos principales específicos
 
 Los objetivos específicos de este proyecto pueden agruparse en 2 categorías:
 
@@ -66,143 +66,143 @@ El uso de estos TMA para investigación fue aprobado por el Institutional Board 
 El Proyecto estará dividido en 5 fases: diagnóstico de las lesiones tumorales, evaluación de microarrays tisulares, confección de la base de datos, análisis estadístico, y redacción del informe de investigación. Estas fases se describen a continuación.
 
 
-#5.1 Diagnóstico de las lesiones tumorales
+##5.1 Diagnóstico de las lesiones tumorales
 
-#5.1.1 Descripción
+###5.1.1 Descripción
 
 Primeramente se procederá a la clasificación de los 4 TMA disponibles conteniendo muestras tisulares de 112 casos de cáncer de pene. Se identificarán las láminas histológicas completas correspondientes a estos casos y se procederá a la clasificación histopatológica de las lesiones tumorales, usando criterios previamente establecidos (Chaux2010b,Chaux2012). El AI trabajará bajo la supervisión del IP para la correcta clasificación de las lesiones tumorales y la adecuada identificación de las características histopatológicas relevantes. Esta evaluación se realizará sobre muestras tisulares teñidas con hematoxilina & eosina.
 
-#5.1.2 Indicador de cumplimiento
+###5.1.2 Indicador de cumplimiento
 
 Caracterización morfológica de los tumores incluidos en los 4 TMA, incluyendo subtipo histológicos y grado histológico
 
-#5.1.3 Meta mínima
+###5.1.3 Meta mínima
 
 Identificación de los campos tumorales en los 4 TMA
 
-#5.1.4 Medios de verificación
+###5.1.4 Medios de verificación
 
 Láminas histológicas, microfotografías de los campos TMA (H\&E), base de datos (parcial) y libro de código en repositorio
 
-#5.1.5 Riesgos
+###5.1.5 Riesgos
 
 Tejido insuficiente para diagnóstico anatomopatológico apropiado
 
-#5.1.6 Cronograma
+###5.1.6 Cronograma
 
 Julio 2015 -- Agosto 2015
 
-#5.2 Evaluación de microarrays tisulares
+##5.2 Evaluación de microarrays tisulares
 
-#5.2.1 Descripción
+###5.2.1 Descripción
 
 Una vez que todas las lesiones tumorales hayan sido clasificadas se procederá a la evaluación visual de la expresión inmunohistoquímica de proteínas relacionadas con el ciclo celular, incluyendo p53, cyclin D1, Ki-67, p16INK4a, y MDM2. Esta evaluación se llevará a cabo en un microscopio Zeiss AxioLab 2. El AI estimará visualmente los niveles de expresión utilizando una escala semicuantitativa previamente desarrollada y  validada (Chaux2013). Esta estimación será controlada por el IP.
 
 Tras la evaluación visual se procederá a digitalizar los TMA, utilizando una técnica previamente descrita (Chaux2014). Posteriormente se procederá al análisis de las imágenes utilizando un protocolo de análisis digital previamente desarrollado y publicado por el IP (Chaux2013). El AI trabajará activamente en la redacción de nuevos protocolos de análisis digital y en la programación de algoritmos para mejorar los protocolos ya existentes.
 
-#5.2.2 Indicador de cumplimiento
+###5.2.2 Indicador de cumplimiento
 
 Medición de niveles de expresión inmunohistoquímica mediante evaluación visual y evaluación digital, en cada uno de los 112 casos, por cada una de las proteínas estudiadas
 
-#5.2.3 Meta mínima
+###5.2.3 Meta mínima
 
 Medición de niveles de expresión inmunohistoquímica de p53 y p16INK4a mediante evaluación visual y evaluación digital
 
-#5.2.4 Medios de verificación
+###5.2.4 Medios de verificación
 
 Microfotografías de los campos de TMA (inmunohistoquímica), base de datos (parcial) y libro de código en repositorio
 
-#5.2.5 Riesgos
+###5.2.5 Riesgos
 
 Protocolo de evaluación digital de la expresión inmunohistoquímica con calibración inadecuada
 
-#5.2.6 Cronograma
+###5.2.6 Cronograma
 
 Septiembre 2015 -- Diciembre 2015
 
-#5.3 Confección de la base de datos
+##5.3 Confección de la base de datos
 
 Tras la recolección de datos visuales y digitales el AI confeccionará una base de datos en la que consignará toda la información recolectada hasta el momento, incluyendo los datos histopatológicos y la evaluación visual y digital de cada uno de los casos de cáncer de pene. Dentro de nuestra consigna de libertad de información haremos que esta base de datos esté disponible gratuitamente para todos los investigadores a través de repositorios digitales internacionales.
 
-#5.3.1 Indicador de cumplimiento
+###5.3.1 Indicador de cumplimiento
 
 Base de datos finalizada, incluyendo datos histopatológicos, microfotografías, y datos de medición.
 
-#5.3.2 Meta mínima
+###5.3.2 Meta mínima
 
 Base de datos conteniendo información sobre p53 y p16INK4a, incluyendo datos histopatológicos, microfotografías, y datos de medición.
 
-#5.3.3 Medios de verificación
+###5.3.3 Medios de verificación
 
 Microfotografías de los campos de TMA (H&E, inmunohistoquímica), base de datos (completa) y libro de código en repositorio
 
-#5.3.4 Riesgos
+###5.3.4 Riesgos
 
 Base de datos incompleta con datos/casos perdidos en número suficiente como para comprometer la calidad del análisis
 
-#5.3.5 Cronograma
+###5.3.5 Cronograma
 
 Enero 2016 -- Febrero 2016
 
-#5.4 Análisis estadístico
+##5.4 Análisis estadístico
 
 El AI procederá al análisis estadístico de los datos bajo la supervisión del IP. El análisis de datos se realizará utilizando el lenguaje de programación R \cite{RCoreTeam}. El AI aprenderá las habilidades necesarias para la programación en R y la utilización de RStudio como interfaz de usuario. Se espera además que el AI adquiera conceptos y habilidades para la aplicación de técnicas estadísticas avanzadas, centradas principalmente en la construcción de modelos matemáticos predictivos. Asimismo, dentro de nuestra política de investigación reproducible, el AI utilizará GitHub (\url{https://github.com/}) para publicar el código de su análisis estadístico, y pondrá a disposición de la comunidad científica global sus resultados a través de repositorios digitales internacionales.
 
-#5.4.1 Indicador de cumplimiento
+###5.4.1 Indicador de cumplimiento
 
 Análisis de datos concluido, incluyendo el protocolo detallado de análisis de datos y los modelos estadísticos utilizados
 
-#5.4.2 Meta mínima
+###5.4.2 Meta mínima
 
 Análisis descriptivo de datos concluido
 
-#5.4.3 Medios de verificación
+###5.4.3 Medios de verificación
 
 Resultados del análisis de datos y el código en R utilizado publicado en un repositorio internacional
 
-#5.4.4 Riesgos
+###5.4.4 Riesgos
 
 Modelos estadísticos inconsistentes
 
-#5.4.5 Cronograma
+###5.4.5 Cronograma
 
 Marzo 2016 -- Abril 2016
 
-#5.5 Redacción de informes de investigación
+##5.5 Redacción de informes de investigación
 
 Como fase final el AI redactará el informe de investigación reportando los resultados del proyecto. Este informe se enviará para publicación en una revista internacional indexada con evaluación por pares. El AI redactará además todos los materiales para ser utilizados en simposios, congresos, talleres, y conferencias en las cuales se divulguen los hallazgos del proyecto. El IP supervisará todo el proceso de redacción.
 
-#5.5.1 Indicador de cumplimiento
+###5.5.1 Indicador de cumplimiento
 
 Informe de investigación finalizado, enviado para evaluación y publicado. Divulgación de los resultados de la investigación a la comunidad académica
 
-#5.5.2 Meta mínima
+###5.5.2 Meta mínima
 
 Informe de investigación finalizado
 
-#5.5.3 Medios de verificación
+###5.5.3 Medios de verificación
 
 Artículo publicado en una revista internacional indexada. Documentación (certificados, fotografías, videos) del trabajo presentado en eventos científicos
 
-#5.5.4 Supuestos/riesgos
+###5.5.4 Supuestos/riesgos
 
 Artículo no finalizado o rechazado para publicación
 
-#5.5.5 Cronograma
+###5.5.5 Cronograma
 
 Mayo 2016 -- Junio 2016
 
 #6.Relevancia
 
-#6.1 Relevancia social
+###6.1 Relevancia social
 
 La implementación de este proyecto sobre ``Evaluación de las proteínas del ciclo celular en el cáncer de pene'' permitirá obtener un conocimiento más acabado y preciso acerca de la biología molecular del cáncer. Este proyecto ayudará no sólo a comprender mejor cómo se origina y progresa la enfermedad sino también dará pistas acerca de cómo ofrecer mejores opciones terapéuticas a los pacientes afectos. Considerando que el Paraguay es uno de los países con la incidencia más alta de cáncer de pene en el mundo, la importancia social de este conocimiento es evidente. Más aún, considerando que las muestras de tejido tumoral corresponden a pacientes paraguayos, esto permitirá que los resultados sean aplicables directamente a los pacientes afectos, ya que no se trataría de información importada o llevada a cabo en otras poblaciones.
 
-#6.2 Relevancia científica
+###6.2 Relevancia científica
 
 Debido a la rareza del cáncer de pene en países desarrollados el conocimiento disponible acerca de su biología molecular es escaso. Este proyecto sobre la ``Evaluación de las proteínas del ciclo celular en el cáncer de pene'' permitirá estudiar los niveles de expresión inmunohistoquímica de proteínas relacionadas al ciclo celular, investigando alteraciones metabólicas en células tumorales y evaluando su asociación con características histopatológicas y virales. Todo esto permitirá incrementar el conocimiento científico disponible acerca de la enfermedad. Además, este proyecto permitirá continuar con nuestra línea de investigación en el cáncer de pene, dentro de un programa de iniciación científica, ofreciendo un entrenamiento formal en ciencia de datos e incrementando por lo tanto el capital humano disponible para realizar investigación.
 
-#6.3 Relevancia contemporánea
+###6.3 Relevancia contemporánea
 
 El conocimiento puramente morfológico o clínico ya no es suficiente hoy en día para comprender una enfermedad, mucho menos para su adecuado diagnóstico y tratamiento. Actualmente se requiere un conocimiento más profundo acerca de la biología molecular de las enfermedades, buscando mejores modelos teóricos mediante los cuales desarrollar estrategias más efectivas para el manejo de los pacientes. Dentro de esta línea, este proyecto sobre la ``Evaluación de las proteínas del ciclo celular en el cáncer de pene'' evaluará uno de los aspectos más importantes de la biología molecular del cáncer, el control del ciclo celular.
 
